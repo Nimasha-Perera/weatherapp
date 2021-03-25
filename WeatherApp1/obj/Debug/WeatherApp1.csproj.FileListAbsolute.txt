@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\WeatherApp1\WeatherApp1\bin\Debug\WeatherApp1.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\WeatherApp1\WeatherApp1\bin\Debug\WeatherApp1.exe
+c:\users\admin\documents\visual studio 2013\Projects\WeatherApp1\WeatherApp1\bin\Debug\WeatherApp1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\WeatherApp1\WeatherApp1\obj\Debug\WeatherApp1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\WeatherApp1\WeatherApp1\obj\Debug\WeatherApp1.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\WeatherApp1\WeatherApp1\obj\Debug\WeatherApp1.exe
+c:\users\admin\documents\visual studio 2013\Projects\WeatherApp1\WeatherApp1\obj\Debug\WeatherApp1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\WeatherApp1\WeatherApp1\obj\Debug\WeatherApp1.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\WeatherApp1\WeatherApp1\obj\Debug\WeatherApp1.csprojResolveAssemblyReference.cache
